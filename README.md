@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#255c4a5057084048444c4965405d44485549400b464a48">
+  <a href="mailto:ceaser.adi00@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
