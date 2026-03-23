@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/aditya950" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/git-aditya950" target="_blank">
+  <a href="https://github.com/RaoAdii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -65,22 +65,22 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌍 [EcoLearn](https://github.com/git-aditya950/EcoLearn) | Environmental education platform with quizzes, gamification, leaderboards & real-time climate data | Python, SQLite, Streamlit, Pandas |
-| 🚂 [Train Ticket Booking](https://github.com/git-aditya950/Train-Ticket-Booking) | A train ticket booking system with a clean UI | HTML, CSS |
-| 📐 [DAA Project](https://github.com/git-aditya950/DAA-Project) | Algorithm visualizer / Design & Analysis project | JavaScript |
-| 🐍 [Python Mini Projects](https://github.com/git-aditya950/Python-Mini-Projects) | Collection of beginner-to-intermediate Python projects | Python |
+| 🌍 [EcoLearn](https://github.com/RaoAdii/EcoLearn) | Environmental education platform with quizzes, gamification, leaderboards & real-time climate data | Python, SQLite, Streamlit, Pandas |
+| 🚂 [Train Ticket Booking](https://github.com/RaoAdii/Train-Ticket-Booking) | A train ticket booking system with a clean UI | HTML, CSS |
+| 📐 [DAA Project](https://github.com/RaoAdii/DAA-Project) | Algorithm visualizer / Design & Analysis project | JavaScript |
+| 🐍 [Python Mini Projects](https://github.com/RaoAdii/Python-Mini-Projects) | Collection of beginner-to-intermediate Python projects | Python |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-aditya950&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Aditya's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-aditya950&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RaoAdii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Aditya's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaoAdii&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-aditya950&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaoAdii&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -100,8 +100,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=git-aditya950&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RaoAdii&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <i>"Writing Code & Buildi
+
